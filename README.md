@@ -1,4 +1,4 @@
-# Trabalho de Complexidade de Algoritmos - Autômatos Finitos
+# Atividade de Complexidade de Algoritmos - Autômatos Finitos
 Questão 3, 4 e 5:
 Class AutomatoFinito:
 def init(self): self.estado_inicial = 'q0' self.estado_final = {'q0', 'q3'}
